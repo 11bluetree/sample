@@ -4,6 +4,7 @@ function sample(number) {
 
 function main() {
   console.log(sample(1));
+  registerApiKey();
 }
 
 // API KEYを登録する
